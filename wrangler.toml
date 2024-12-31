@@ -1,0 +1,7 @@
+name = "fastmatch"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "fastmatch"
+database_id = "39513b50-b18d-4e8a-a99d-dd4c8a2544ba"
